@@ -1,20 +1,12 @@
-# Adopt-a-Hydrant
+# Adopt-a-Stormwater
 
-[![Build Status](https://secure.travis-ci.org/codeforamerica/adopt-a-hydrant.png?branch=master)][travis]
-[![Dependency Status](https://gemnasium.com/codeforamerica/adopt-a-hydrant.png?travis)][gemnasium]
-[![Coverage Status](https://coveralls.io/repos/codeforamerica/adopt-a-hydrant/badge.png?branch=master)][coveralls]
-
-[travis]: http://travis-ci.org/codeforamerica/adopt-a-hydrant
-[gemnasium]: https://gemnasium.com/codeforamerica/adopt-a-hydrant
-[coveralls]: https://coveralls.io/r/codeforamerica/adopt-a-hydrant
-
-Claim responsibility for monitoring water quality from a stormwater in Glenorchy.
+Claim responsibility for monitoring water quality from a stormwater in Hobart.
 
 ## Screenshot
-![Adopt-a-Hydrant](https://github.com/codeforamerica/adopt-a-hydrant/raw/master/screenshot.png "Adopt-a-Hydrant")
+![Adopt-a-Stormwater](https://github.com/botheredbybees/adopt-a-stormwater/blob/master/app/assets/images/screenshot.png "Adopt-a-Stormwater")
 
 ## Demo
-You can see a running version of the application at
+You can see a running version of the application's parent at
 [http://adopt-a-hydrant.herokuapp.com/][demo].
 
 [demo]: http://adopt-a-hydrant.herokuapp.com/
@@ -22,8 +14,8 @@ You can see a running version of the application at
 ## Installation
 This application requires [Postgres](http://www.postgresql.org/) to be installed
 
-    git clone git://github.com/codeforamerica/adopt-a-hydrant.git
-    cd adopt-a-hydrant
+    git clone https://github.com/botheredbybees/adopt-a-stormwater.git
+    cd adopt-a-stormwater
     bundle install
 
     bundle exec rake db:create
@@ -79,7 +71,6 @@ Here are some ways *you* can contribute:
 * by using alpha, beta, and prerelease versions
 * by reporting bugs
 * by suggesting new features
-* by [translating to a new language][locales]
 * by writing or editing documentation
 * by writing specifications
 * by writing code (**no patch is too small**: fix typos, add comments, clean up
@@ -87,11 +78,8 @@ Here are some ways *you* can contribute:
 * by refactoring code
 * by closing [issues][]
 * by reviewing patches
-* [financially][]
 
-[locales]: https://github.com/codeforamerica/adopt-a-hydrant/tree/master/config/locales
 [issues]: https://github.com/codeforamerica/adopt-a-hydrant/issues
-[financially]: https://secure.codeforamerica.org/page/contribute
 
 ## Submitting an Issue
 We use the [GitHub issue tracker][issues] to track bugs and features. Before
