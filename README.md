@@ -3,7 +3,7 @@
 Claim responsibility for monitoring water quality from a stormwater in Hobart.
 
 ## Screenshot
-![Adopt-a-Stormwater](https://github.com/botheredbybees/adopt-a-stormwater/blob/master/app/assets/images/screenshot.png "Adopt-a-Stormwater")
+![Adopt-a-Stormwater](http://learnonline.cc/screenshot.png "Adopt-a-Stormwater")
 
 ## Demo
 You can see a running version of the application's parent at
